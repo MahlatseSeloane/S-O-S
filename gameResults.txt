@@ -1,0 +1,128 @@
+size 3
+player1: r2c0 S
+player2: r1c2 S
+player1: r2c2 S
+player2: r2c1 O
+player2: point scored
+player2: r0c1 S
+player1: r0c2 S
+player2: r1c1 O
+player2: point scored
+player2: r0c0 S
+player2: point scored
+player2: r1c0 S
+player2: point scored
+winner: player2
+score: 4,0
+
+size 4
+player1: r1c1 S
+player2: r1c3 S
+player1: r3c3 S
+player2: r1c2 O
+player2: point scored
+player2: r2c2 O
+player2: point scored
+player2: r2c3 O
+player1: r0c1 S
+player2: r3c1 S
+player2: point scored
+player2: r2c1 O
+player2: point scored
+player2: r3c2 O
+player2: point scored
+player2: r1c0 S
+player1: r0c2 S
+player2: r0c3 S
+player1: r0c0 S
+player2: r3c0 S
+player1: r2c0 O
+player1: point scored
+winner: player2
+score: 5,1
+
+size 7
+player1: r1c6 S
+player2: r3c1 S
+player1: r6c5 S
+player2: r5c6 S
+player1: r0c6 S
+player2: r5c5 S
+player1: r0c0 S
+player2: r4c3 S
+player1: r5c3 S
+player2: r5c4 O
+player2: point scored
+player2: r4c2 O
+player2: point scored
+player2: r4c1 S
+player2: point scored
+player2: r3c0 S
+player1: r6c3 S
+player2: r4c5 S
+player2: point scored
+player2: r4c4 O
+player2: point scored
+player2: r3c3 S
+player2: point scored
+player2: r3c2 O
+player2: point scored
+player2: r2c1 S
+player2: point scored
+player2: r2c3 S
+player2: point scored
+player2: r2c2 O
+player2: point scored
+player2: r1c1 S
+player2: point scored
+player2: r1c3 S
+player2: point scored
+player2: r1c2 O
+player2: point scored
+player2: r0c1 S
+player2: point scored
+player2: r0c3 S
+player2: point scored
+player2: r0c2 O
+player2: point scored
+player2: r3c4 O
+player2: point scored
+player2: r3c5 S
+player2: point scored
+player2: r2c4 O
+player2: point scored
+player2: r2c5 S
+player2: point scored
+player2: r1c4 O
+player2: point scored
+player2: r1c5 S
+player2: point scored
+player2: r0c5 S
+player2: point scored
+player2: r0c4 O
+player2: point scored
+player2: r5c1 S
+player2: point scored
+player2: r5c2 O
+player2: point scored
+player2: r6c1 S
+player2: point scored
+player2: r6c2 O
+player2: point scored
+player2: r6c4 O
+player2: point scored
+player2: r5c0 S
+player1: r4c6 S
+player2: r4c0 O
+player2: point scored
+player2: r3c6 S
+player1: r2c0 S
+player2: r1c0 O
+player2: point scored
+player2: r2c6 O
+player2: point scored
+player2: r6c6 S
+player1: r6c0 S
+winner: player2
+score: 37,0
+

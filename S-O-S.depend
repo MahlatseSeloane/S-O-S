@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1673892039 source:d:\going to git\software development - c++\reversi\s-o-s\the_game.cpp
+	"The_Game.h"
+
+1673871895 d:\going to git\software development - c++\reversi\s-o-s\the_game.h
+	<ctime>
+	<cstdlib>
+	<string>
+	<iostream>
+
+1673898478 source:d:\going to git\software development - c++\reversi\s-o-s\main.cpp
+	"The_Game.h"
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1674378374 source:d:\going to git\software development - c++\sos\s-o-s\main.cpp
+	"The_Game.h"
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1674378999 d:\going to git\software development - c++\sos\s-o-s\the_game.h
+	<ctime>
+	<cstdlib>
+	<string>
+	<iostream>
+	<vector>
+
+1674378999 source:d:\going to git\software development - c++\sos\s-o-s\the_game.cpp
+	"The_Game.h"
+
